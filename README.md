@@ -79,7 +79,12 @@ GROUP BY sentiment_label;
 ---
 
 ## 📸 Screenshots
-- `architecture_diagram.png` → Pipeline flow
-- `sentiment_query_result.png` → Athena query output
 
----
+### 1. Architecture Diagram
+![Architecture](architecture.png)
+
+### 2. ETL Script Output
+![ETL Output](etl_output.png)
+
+### 3. Athena Query Result
+![Athena Query Result](sentiment_query_result.png)

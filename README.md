@@ -14,8 +14,6 @@ It analyzes customer/product reviews, assigns **sentiment scores and labels**, a
 4. **Amazon Athena** → Queries sentiment results
 5. **(Optional)** AI-generated media/text stored in S3 for portfolio showcase
 
-**Architecture Diagram:**
-![Architecture](architecture_diagram.png)
 
 ---
 

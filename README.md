@@ -86,5 +86,5 @@ GROUP BY sentiment_label;
 ### 2. ETL Script Output
 ![ETL Output](sample_etl.png.jpg)
 
-### 3. Athena Query Result
-![Athena Query Result](sentiment_query_result.png)
+### 3. Athena Result
+![Athena Query Result](sentiment_query_result.png.jpg)

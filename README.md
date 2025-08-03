@@ -84,7 +84,7 @@ GROUP BY sentiment_label;
 ![Architecture](architecture.png)
 
 ### 2. ETL Script Output
-![ETL Output](etl_output.png)
+![ETL Output](sample_etl.png.jpg)
 
 ### 3. Athena Query Result
 ![Athena Query Result](sentiment_query_result.png)
